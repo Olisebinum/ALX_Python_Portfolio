@@ -22,5 +22,19 @@ Each project demonstrates analytical, statistical, and programming techniques ap
 
 ---
 
-## 📂 Project Structure  
+## 📂 Repository Structure  
+
+This portfolio is organized into folders that reflect my Python and Data Science learning journey:  
+
+- **01_python_basics/** — Core Python fundamentals  
+- **02_data_structures_algorithms/** — Lists, sets, and algorithmic logic  
+- **03_file_handling_and_apis/** — Working with files and APIs  
+- **04_data_analysis/** — Data wrangling and cleaning using Pandas & NumPy  
+- **05_data_visualization/** — Visual analytics with Matplotlib & Seaborn  
+- **06_machine_learning/** — Predictive modeling with Scikit-learn  
+- **07_projects/** — End-to-end portfolio projects  
+- **08_dashboards_and_reporting/** — Dashboards using Streamlit, Tableau, or Power BI  
+- **09_sql_and_databases/** — SQL queries and Python integration  
+- **10_data_engineering_basics/** — ETL and data pipeline experiments  
+
 
