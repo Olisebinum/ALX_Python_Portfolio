@@ -37,4 +37,31 @@ This portfolio is organized into folders that reflect my Python and Data Science
 - **09_sql_and_databases/** — SQL queries and Python integration  
 - **10_data_engineering_basics/** — ETL and data pipeline experiments  
 
+---
 
+## 🚀 Featured Projects  
+
+| Project | Description | Key Skills |
+|----------|--------------|-------------|
+| **Exploratory Data Analysis (EDA)** | Analyzed datasets using Pandas and Seaborn | Data Cleaning, Visualization |
+| **Machine Learning Pipeline** | Built and evaluated models using Scikit-learn | Feature Engineering, Modeling |
+| **COVID-19 Trends Dashboard** | Interactive visualization of case data | EDA, Plotting, Insights |
+
+---
+
+## 📊 Learning Focus  
+
+- Writing **clean, modular, and reusable Python code**  
+- Applying **data science best practices**  
+- Building **data-driven insights and reports**  
+- Strengthening **problem-solving and analytical skills**
+
+---
+
+## 🧩 How to Use  
+
+Clone the repository and explore the folders:  
+
+```bash
+git clone https://github.com/<your-username>/ALX_Python_Portfolio.git
+cd ALX_Python_Portfolio
