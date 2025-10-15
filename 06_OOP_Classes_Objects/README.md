@@ -1,4 +1,4 @@
-# 🧱 04_OOP_Classes_Objects
+# 🧱 06_OOP_Classes_Objects
 
 ## 📘 Overview
 
